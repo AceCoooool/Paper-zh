@@ -1,5 +1,7 @@
 # Paper-zh
-个人所读论文的记录，里面肯定包含不对的对方，欢迎和感谢指出。
+个人所读论文的记录，里面肯定包含错误的理解，欢迎指出，感谢指出。
+
+下述的(*推荐)代表推荐此论文，并不是指写的总结
 
 ### 20180102
 
@@ -19,3 +21,8 @@
 1. [The Devil is in the Decoder](https://arxiv.org/abs/1707.05847v2) (*推荐)
 2. [Instance-Level Salient Object Segmentation](https://arxiv.org/abs/1704.03604)
 
+
+### 20180105
+
+1. ["Zero-Shot" Super-Resolution using Deep Internal Learning](https://arxiv.org/abs/1712.06087) (*推荐)
+2. [Panoptic Segmentation](https://arxiv.org/abs/1801.00868) (*推荐)
