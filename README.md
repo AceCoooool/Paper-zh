@@ -26,3 +26,8 @@
 
 1. ["Zero-Shot" Super-Resolution using Deep Internal Learning](https://arxiv.org/abs/1712.06087) (*推荐)
 2. [Panoptic Segmentation](https://arxiv.org/abs/1801.00868) (*推荐)
+
+### 20180106
+
+1. [Non-Local Deep Features for Salient Object Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Luo_Non-Local_Deep_Features_CVPR_2017_paper.pdf)
+2. [Learning to Detect Salient Objects with Image-level Supervision](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Learning_to_Detect_CVPR_2017_paper.pdf) (*推荐)
