@@ -31,3 +31,12 @@
 
 1. [Non-Local Deep Features for Salient Object Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Luo_Non-Local_Deep_Features_CVPR_2017_paper.pdf)
 2. [Learning to Detect Salient Objects with Image-level Supervision](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Learning_to_Detect_CVPR_2017_paper.pdf) (*推荐)
+
++.+：20180107和20180108打酱油去了....
+
+### 20180109
+
+1. [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
+2. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062)) (似乎同一篇，但更详细的版本：[DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf))
+3. [Attention to Scale: Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)
+
