@@ -40,3 +40,10 @@
 2. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062)) (似乎同一篇，但更详细的版本：[DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf))
 3. [Attention to Scale: Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)
 
+
+### 20180110
+
+1. [Semantic Image Segmentation via Deep Parsing Network](https://arxiv.org/abs/1509.02634) (*推荐)
+2. [Fast, Exact and Multi-Scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs](https://arxiv.org/abs/1603.08358)
+3. [Deep, Dense, and Low-Rank Gaussian Conditional Random Fields](https://arxiv.org/abs/1611.09051)
+
