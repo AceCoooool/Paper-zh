@@ -47,3 +47,8 @@
 2. [Fast, Exact and Multi-Scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs](https://arxiv.org/abs/1603.08358)
 3. [Deep, Dense, and Low-Rank Gaussian Conditional Random Fields](https://arxiv.org/abs/1611.09051)
 
+
+### 20180111
+
+1. [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
+2. [Semantic Segmentation with Reverse Attention](https://arxiv.org/abs/1707.06426) (*推荐)
