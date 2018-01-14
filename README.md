@@ -52,3 +52,10 @@
 
 1. [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
 2. [Semantic Segmentation with Reverse Attention](https://arxiv.org/abs/1707.06426) (*推荐)
+
++.+：201801012和20180113又打酱油去了....（泪崩）
+
+### 20180114
+
+1. [Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://arxiv.org/abs/1703.08448)
+
