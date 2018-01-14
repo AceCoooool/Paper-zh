@@ -58,4 +58,6 @@
 ### 20180114
 
 1. [Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://arxiv.org/abs/1703.08448)
+2. [Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection](https://arxiv.org/abs/1708.02001)
+
 
