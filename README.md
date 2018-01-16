@@ -61,3 +61,8 @@
 2. [Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection](https://arxiv.org/abs/1708.02001)
 
 
+### 20180116
+
+1. [Dilated Residual Networks](https://arxiv.org/abs/1705.09914) & [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
+2. [Learning Affinity via Spatial Propagation Networks](https://arxiv.org/abs/1710.01020) (*推荐)
+
