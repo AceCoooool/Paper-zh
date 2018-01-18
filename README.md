@@ -72,3 +72,8 @@
 1. [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](https://arxiv.org/abs/1611.08323)
 2. [Deep Level Sets for Salient Object Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Deep_Level_Sets_CVPR_2017_paper.pdf)
 
+
+### 20180118
+
+1. [Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade](https://arxiv.org/abs/1704.01344)
+
