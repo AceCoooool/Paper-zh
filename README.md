@@ -77,3 +77,9 @@
 
 1. [Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade](https://arxiv.org/abs/1704.01344)
 
+
+### 20190119
+
+1. [Soft Proposal Networks for Weakly Supervised Object Localization](https://arxiv.org/abs/1709.01829)
+
+s
